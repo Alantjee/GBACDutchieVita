@@ -1,0 +1,5 @@
+. filter=lfs diff=lfs merge=lfs -text
+Rifornimenti_Carburante_ClubQ8.xls filter=lfs diff=lfs merge=lfs -text
+Anagrafica_ClubQ8.xls filter=lfs diff=lfs merge=lfs -text
+Premi_ClubQ8.xls filter=lfs diff=lfs merge=lfs -text
+9.[[:space:]]Bilancio[[:space:]]Sostenibilità[[:space:]]2020_2021 filter=lfs diff=lfs merge=lfs -text
