@@ -1,7 +1,7 @@
 # GBACDutchieVita
 Github repository for our data challenge
 
-#assignment
+#ASSIGNMENT
 
 Q8 team is asking your consultancy company to advise them on their customer behavior. They want you to take the lead on a project they recently started:
 
@@ -14,7 +14,7 @@ You have around 2.5 months to come back with a report.
 Be creative, play with the data, find information wherever you can and show what you’ve got!
 
 
-#instructions
+#INSTRUCTIONS
 
 Consideration of business and market reality 
 Take into account facts about Q8 business. Make sure you read well annual reports, website, and all kind of documentation about Q8 before starting the project. 
@@ -35,7 +35,7 @@ On the other side, simple models could lead to the wrong conclusions.
 
 
 
-#midterm report instructions
+#MIDTERM REPORT INSTRUCTIONS
 
 For your mid-term, we expect you to prepare with your team a report about your progress. This report is mandatory but will not count for your final grade. 
 
@@ -65,7 +65,10 @@ Preliminary results: What are the first conclusions of the above data analysis? 
 Next steps: What are your plans to have a better analysis (more robust model etc.)? What are your plans to effectively communicate your study to an audience from various backgrounds? Which channel will you use (regular PowerPoint? Regular report? Interactive PowerPoint? Video? Interactive report? ...) ?
 
 
-Second mid-term report guidelines: “Data Presentation & Multicultural teamwork” training
+
+#SECOND MID-TERM REPORT GUIDELINES:
+
+“Data Presentation & Multicultural teamwork” training
 With your team, answer the following questions (2 pages max.): 
 
 During your “Data Presentation & Multicultural teamwork” training, what are the “soft skills” (e.g. teamwork, multicultural teamwork, general presentation, data presentation, communication, storytelling …) 
