@@ -32,3 +32,44 @@ Always find the right balance between complexity, accuracy, simplicity, and inte
 Complex models may make you look like a genius but in the end, it may not lead to concrete recommendations.
 Accurate models are usually black boxes and could also lead to overfitting issues.
 On the other side, simple models could lead to the wrong conclusions.
+
+
+
+#midterm report instructions
+
+For your mid-term, we expect you to prepare with your team a report about your progress. This report is mandatory but will not count for your final grade. 
+
+Quick points
+
+ An 8-pager PDF report
+
+Unlimited appendices
+
+Additional information that do not fit the 8-pages report
+
+With your codes and description of your codes 
+
+Deadline: 7 December (12am, Brussels time)
+
+
+
+Your report should include the following points (The sub-points aim to help you, no need to follow it step by step).
+
+Team name and team composition (with info on the members of the team) 
+Summary of your report: In max 10 lines, the summary should describe your work and its added value. Your parents should be able to understand it.
+The question (and sub-questions) you would like to address: How will the answer(s) be useful to the business? Is your question clear and original? 
+The theoretical/business side: Did other analysts investigate the same (kind of) question before you? What were their conclusion?  What is the methodology of previous/similar studies? Can you use the same (kind of) methodology? Which information can you find about Q8 that is related to your question(s) (on their website, annual report,interviews, press, etc.) 
+A first data exploration: How did you clean your data? Could you find additional data to enrich your database/study? Descriptive statistics Which trends (related to your question(s)) can you observe from your first data exploration? 
+A description of the methodology: Which models/techniques/algorithms do you use (or plan to use) to efficiently answer your question? Are your models/techniques/algorithms robust enough to draw conclusions? 
+Preliminary results: What are the first conclusions of the above data analysis? Are your conclusions aligned with market/business reality and previous studies?  Based on your preliminary results, which recommendations could you make to Q8 managers?
+Next steps: What are your plans to have a better analysis (more robust model etc.)? What are your plans to effectively communicate your study to an audience from various backgrounds? Which channel will you use (regular PowerPoint? Regular report? Interactive PowerPoint? Video? Interactive report? ...) ?
+
+
+Second mid-term report guidelines: “Data Presentation & Multicultural teamwork” training
+With your team, answer the following questions (2 pages max.): 
+
+During your “Data Presentation & Multicultural teamwork” training, what are the “soft skills” (e.g. teamwork, multicultural teamwork, general presentation, data presentation, communication, storytelling …) 
+
+that were addressed that are helpful for your team in succeeding with QDC. Please explain.
+that were addressed that are not helpful for your team in succeeding with QDC. Please explain.
+that would have been helpful for your team in succeeding with QDC. Please explain.
